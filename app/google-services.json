@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135757170274",
+    "project_id": "testing-a519d",
+    "storage_bucket": "testing-a519d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135757170274:android:b62fa3934edc9d51fbf33b",
+        "android_client_info": {
+          "package_name": "com.example.stellarddsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135757170274-2o0n1bmrlumi9ij13vnefsnhklgfdtrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiTRZSDHhwMviYpFtGSda4JnwlpwnSEvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135757170274-2o0n1bmrlumi9ij13vnefsnhklgfdtrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

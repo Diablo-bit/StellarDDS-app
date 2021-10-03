@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Stellar DDS app</string>
+
+    <string name="agent_login">
+        Agent Login
+    </string>
+
+    <string name="username">
+        Username
+    </string>
+
+    <string name="password">
+        Password
+    </string>
+
+    <string name="login">
+        Login
+    </string>
+
+    <string name="accounts">
+        Accounts
+    </string>
+
+
+</resources>
